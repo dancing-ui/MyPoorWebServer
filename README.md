@@ -18,5 +18,16 @@
 1. 单线程处理
 2. 多线程处理
 
+# 编译、执行
+
+```
+git clone git@github.com:dancing-ui/Tiny-WebServer.git
+cd Tiny-WebServer
+cmake .
+make
+cd bin
+./TinyServer
+```
+
 
 
