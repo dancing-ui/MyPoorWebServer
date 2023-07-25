@@ -29,5 +29,20 @@ cd bin
 ./TinyServer
 ```
 
+# 项目演示
 
+## 1.服务器启动
 
+![image-20230725224033088](C:\Users\惠普\AppData\Roaming\Typora\typora-user-images\image-20230725224033088.png)
+
+## 2.初始页面
+
+![image-20230725224117305](C:\Users\惠普\AppData\Roaming\Typora\typora-user-images\image-20230725224117305.png)
+
+## 3.表单页面
+
+![image-20230725224325555](C:\Users\惠普\AppData\Roaming\Typora\typora-user-images\image-20230725224325555.png)
+
+## 4.页面未发现
+
+![image-20230725224350292](C:\Users\惠普\AppData\Roaming\Typora\typora-user-images\image-20230725224350292.png)
