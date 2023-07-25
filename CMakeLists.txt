@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(PoorServer LANGUAGES CXX)
+project(TinyServer LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -49,7 +49,7 @@ add_executable(${PROJECT_NAME}
 #target_link_libraries(${PROJECT_NAME} Qt5::Core Qt5::Gui Qt5::Widgets)
 
 # 把文件引入Qt creator，PoorServer是项目名
-install(TARGETS PoorServer
+install(TARGETS TinyServer
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
     RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
 )
