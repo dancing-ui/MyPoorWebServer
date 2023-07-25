@@ -32,7 +32,7 @@ class Server
         }
     };
     size_t server_sock = -1; // 服务端的socket号
-    u_short port = 6666;     // 服务器打开的端口号
+    u_short port = 1234;     // 服务器打开的端口号
     size_t client_sock = -1; // 客户端的socket号
     // 客户端的socket地址信息
     sockaddr_in client_name;
